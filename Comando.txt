@@ -1,0 +1,1 @@
+GIT RM --CACHED NOME DO ARQUIVO -  Remove esse arquivo da área de staging (sem apagar o arquivo do seu computador)

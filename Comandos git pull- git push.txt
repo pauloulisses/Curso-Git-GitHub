@@ -1,0 +1,3 @@
+GIT PULL - puxa modificações do repositório remoto para o repositório local
+
+GIT PUSH - envia as modificações locais para o repositório remoto
