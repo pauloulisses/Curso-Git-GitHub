@@ -1,1 +1,3 @@
 GIT RM --CACHED NOME DO ARQUIVO -  Remove esse arquivo da área de staging (sem apagar o arquivo do seu computador)
+
+GIT RESTARE + NOME DO ARQUIVO - Serve para desfazer alterações em arquivos do seu diretório de trabalho "RESTAURANDO O ESTADO ANTERIOR"
