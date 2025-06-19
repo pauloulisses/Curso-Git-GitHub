@@ -1,0 +1,15 @@
+Curso Completo Git 
+
+comandos do Git
+
+1. iniciar o git(repositório) no projeto (GIT INIT)
+
+2. verificar alterações de pastas e arquivos no projeto (GIT STATUS)
+
+3. adiciona todos os arquivos e pastas modificadas, ao stage área (GIT ADD .)
+
+4. adiciona um arquivo especifico (GIT ADD + NOME DO ARQUIVO)
+
+5. cria e descreve um ponto na história (GIT COMMIT -M "MENSAGE HERE")
+
+6. histórico de commits do projeto (GIT LOG)
